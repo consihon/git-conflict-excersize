@@ -3,6 +3,7 @@ Doggo ipsum long woofer doggorino woofer big ol, ruff borking doggo long doggo f
 
 var thisFunction = function () {
     //do this
+    //now do this
 }
 
 this line was added by ted and alice
