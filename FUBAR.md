@@ -6,3 +6,5 @@ var thisFunction = function () {
 }
 
 this line was added by ted and alice
+
+ted and carol wrote this line of code like the boosted animals they are [with an array starting at 1]
